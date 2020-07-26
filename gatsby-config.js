@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'DJWS Skeleton',
-    description: 'DJWS Will be built from this!',
+    title: 'DJ Web Studios',
+    description: 'DJWS Frontend Development Blog',
   },
   plugins: [
     'gatsby-plugin-emotion',
