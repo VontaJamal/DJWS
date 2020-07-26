@@ -32,7 +32,7 @@ const Header = () => (
     `}
   >
     <NavLink to="/" fontWeight="bold">
-      FEM Workshop
+      DJWS
     </NavLink>
     <nav
       css={css`
@@ -42,9 +42,9 @@ const Header = () => (
       <NavLink to="/" activeClassName="current-page">
         Home
       </NavLink>
-      <NavLink to="/about/" activeClassName="current-page">
+      {/* <NavLink to="/about/" activeClassName="current-page">
         About
-      </NavLink>
+      </NavLink> */}
     </nav>
   </header>
 )
