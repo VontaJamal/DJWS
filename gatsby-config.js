@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'DJWS',
+    title: 'DJ Web Studios',
     description: 'DJWS Frontend Development Blog',
   },
   plugins: [
